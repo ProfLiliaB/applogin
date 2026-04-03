@@ -1,17 +1,17 @@
 # applogin
 
-A new Flutter project.
+É um projeto didático, desenvolvido em sala de aula com os alunos.
 
-## Getting Started
+## Para usar
 
-This project is a starting point for a Flutter application.
+Você pode baixar esse projeto abrir no VSCode ou no Android
 
-A few resources to get you started if this is your first Flutter project:
+Você também pode acessar a documentação oficial para saber mais:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- [Aprender Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Criar seu primeiro app Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Recursos do flutter](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Visite a documentação oficial do FLutter:
+[documentação online](https://docs.flutter.dev/), ela oferece tutoriais,
+exemplos, orientações sobre desenvolvimento e uma referência completa da API.
