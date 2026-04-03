@@ -1,0 +1,12 @@
+.build/
+.dart_tool/
+.packages
+.pub/
+# Arquivos de configuração do Android Studio
+*.iml
+.idea/
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+# Arquivos de configuração do Xcode
+.xcodeproj/
+.xcworkspace/
