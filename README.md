@@ -6,9 +6,9 @@
 
 Você pode baixar esse projeto abrir no VSCode ou no Android
 
-[Instalação Flutter](https://docs.flutter.dev/install)
-[Instalação com VS Code](https://docs.flutter.dev/install/with-vs-code)
-[Setup Android no Windows](https://docs.flutter.dev/platform-integration/android/install-android/install-android-from-web-on-windows)
+- [Instalação Flutter](https://docs.flutter.dev/install)
+- [Instalação com VS Code](https://docs.flutter.dev/install/with-vs-code)
+- [Setup Android no Windows](https://docs.flutter.dev/platform-integration/android/install-android/install-android-from-web-on-windows)
 
 Você também pode acessar a documentação oficial para saber mais:
 
